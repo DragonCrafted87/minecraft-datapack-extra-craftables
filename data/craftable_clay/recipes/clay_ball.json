@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "ABA",
+    "B#B",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:sand"
+        },
+    "B": {
+        "item": "minecraft:dirt"
+    },
+    "#": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "minecraft:clay_ball",
+    "count": 32
+  }
+}
