@@ -7,7 +7,7 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:blaze_rod"
+            "item": "minecraft:spider_eye"
         },
         "D": {
             "item": "minecraft:diamond"
@@ -20,7 +20,7 @@
         }
     },
     "result": {
-        "item": "minecraft:spider_eye",
+        "item": "minecraft:spider_spawn_egg",
         "count": 1
     }
 }
