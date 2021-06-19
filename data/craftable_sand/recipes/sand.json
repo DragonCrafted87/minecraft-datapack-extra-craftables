@@ -1,19 +1,19 @@
 {
-  "type": "crafting_shaped",
-  "pattern": [
-    "#A",
-    "A#"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:flint"
+    "type": "crafting_shaped",
+    "pattern": [
+        "#A",
+        "A#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:flint"
         },
-    "A": {
-        "item": "minecraft:bone_meal"
+        "A": {
+            "item": "minecraft:bone_meal"
+        }
+    },
+    "result": {
+        "item": "minecraft:sand",
+        "count": 1
     }
-  },
-  "result": {
-    "item": "minecraft:sand",
-    "count": 1
-  }
 }
