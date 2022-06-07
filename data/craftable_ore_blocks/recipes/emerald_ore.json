@@ -1,0 +1,21 @@
+{
+    "group": "stone_ore",
+    "key": {
+        "#": {
+            "item": "minecraft:emerald"
+        },
+        "S": {
+            "item": "minecraft:stone"
+        }
+    },
+    "pattern": [
+        "###",
+        "#S#",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "item": "minecraft:emerald_ore"
+    },
+    "type": "crafting_shaped"
+}

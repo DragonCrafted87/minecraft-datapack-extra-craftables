@@ -1,0 +1,36 @@
+{
+    "criteria": {
+        "has_block": {
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        },
+        "has_gem": {
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:coal"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "parent": "minecraft:recipes/root",
+    "requirements": [
+        [
+            "has_block",
+            "has_gem"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "craftable_ore_blocks:coal_ore"
+        ]
+    }
+}

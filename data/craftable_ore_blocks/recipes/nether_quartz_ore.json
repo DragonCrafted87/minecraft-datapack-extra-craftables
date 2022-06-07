@@ -1,0 +1,21 @@
+{
+    "group": "nether_ore",
+    "key": {
+        "#": {
+            "item": "minecraft:quartz"
+        },
+        "S": {
+            "item": "minecraft:netherrack"
+        }
+    },
+    "pattern": [
+        "###",
+        "#S#",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "item": "minecraft:nether_quartz_ore"
+    },
+    "type": "crafting_shaped"
+}

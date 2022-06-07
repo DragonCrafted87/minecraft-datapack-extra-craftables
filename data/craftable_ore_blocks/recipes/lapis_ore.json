@@ -1,0 +1,21 @@
+{
+    "group": "stone_ore",
+    "key": {
+        "#": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "S": {
+            "item": "minecraft:stone"
+        }
+    },
+    "pattern": [
+        "###",
+        "#S#",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "item": "minecraft:lapis_ore"
+    },
+    "type": "crafting_shaped"
+}

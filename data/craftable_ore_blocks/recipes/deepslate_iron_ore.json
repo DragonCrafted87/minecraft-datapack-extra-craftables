@@ -1,0 +1,21 @@
+{
+    "group": "deepslate_ore",
+    "key": {
+        "#": {
+            "item": "minecraft:iron_ingot"
+        },
+        "D": {
+            "item": "minecraft:deepslate"
+        }
+    },
+    "pattern": [
+        "###",
+        "#D#",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "item": "minecraft:deepslate_iron_ore"
+    },
+    "type": "crafting_shaped"
+}
