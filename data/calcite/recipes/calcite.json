@@ -1,0 +1,19 @@
+{
+    "key": {
+        "C": {
+            "item": "minecraft:sand"
+        },
+        "Q": {
+            "item": "minecraft:bone_block"
+        }
+    },
+    "pattern": [
+        "CQ",
+        "QC"
+    ],
+    "result": {
+        "count": 2,
+        "item": "minecraft:calcite"
+    },
+    "type": "minecraft:crafting_shaped"
+}
