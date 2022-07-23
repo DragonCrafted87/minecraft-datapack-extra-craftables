@@ -1,10 +1,4 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "###",
-        "#D#",
-        "###"
-    ],
     "key": {
         "#": {
             "item": "minecraft:netherite_scrap"
@@ -13,8 +7,14 @@
             "item": "minecraft:diamond_block"
         }
     },
+    "pattern": [
+        "###",
+        "#D#",
+        "###"
+    ],
     "result": {
-        "item": "spawner",
-        "count": 1
-    }
+        "count": 1,
+        "item": "spawner"
+    },
+    "type": "crafting_shaped"
 }

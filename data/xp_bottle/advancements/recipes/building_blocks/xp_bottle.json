@@ -4,7 +4,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:redstone_block"
+                        "item": "minecraft:sculk_catalyst"
                     }
                 ]
             },
@@ -12,7 +12,7 @@
         },
         "has_the_recipe": {
             "conditions": {
-                "recipe": "craftable_mob_eggs:shulker_spawn_egg"
+                "recipe": "xp_bottle:xp_bottle"
             },
             "trigger": "minecraft:recipe_unlocked"
         }
@@ -26,7 +26,7 @@
     ],
     "rewards": {
         "recipes": [
-            "craftable_mob_eggs:shulker_spawn_egg"
+            "xp_bottle:xp_bottle"
         ]
     }
 }

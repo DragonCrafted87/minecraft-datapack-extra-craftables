@@ -1,10 +1,4 @@
 {
-    "type": "crafting_shaped",
-    "pattern": [
-        "D#D",
-        "#E#",
-        "DRD"
-    ],
     "key": {
         "#": {
             "item": "minecraft:spider_eye"
@@ -12,15 +6,21 @@
         "D": {
             "item": "minecraft:diamond"
         },
-        "R": {
-            "item": "minecraft:redstone_block"
-        },
         "E": {
             "item": "minecraft:egg"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
         }
     },
+    "pattern": [
+        "D#D",
+        "#E#",
+        "DRD"
+    ],
     "result": {
-        "item": "minecraft:spider_spawn_egg",
-        "count": 1
-    }
+        "count": 1,
+        "item": "minecraft:spider_spawn_egg"
+    },
+    "type": "crafting_shaped"
 }
